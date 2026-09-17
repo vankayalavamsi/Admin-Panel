@@ -1,1 +1,2 @@
-# Admin-Panel
+Admin-Panel
+My first Netlify deployment 🚀
