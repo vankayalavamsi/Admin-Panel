@@ -2,7 +2,7 @@
 
 A modern, responsive **Admin Dashboard** built with **React** and **Vite**. The dashboard provides a clean interface for managing and visualizing application data through reusable components, navigation, and interactive charts.
 
-🔗 **Live Demo:** [adminpanel23.netlify.app](https://adminpanel23.netlify.app/)
+🔗 **Live Demo:** [[adminpanel23.netlify.app](https://adminpanel23.netlify.app/)](https://adminpanel23.netlify.app/)
 
 🔗 **GitHub Repository:** [vankayalavamsi/Admin-Panel](https://github.com/vankayalavamsi/Admin-Panel)
 
