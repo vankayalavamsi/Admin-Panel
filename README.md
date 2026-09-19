@@ -134,7 +134,7 @@ Charts and visualizations are implemented using **Recharts**, while navigation i
 
 Experience the deployed application:
 
-### 👉 [Open Admin Dashboard](https://adminpanel23.netlify.app/)
+### 👉 [[Open Admin Dashboard](https://adminpanel23.netlify.app/)](https://adminpanel23.netlify.app/)
 
 ---
 
